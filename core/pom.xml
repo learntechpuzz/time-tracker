@@ -34,5 +34,5 @@
             <scope>test</scope>
         </dependency>
         <!-- End Testing -->
-    <dependencies>
+    </dependencies>
 </project>
