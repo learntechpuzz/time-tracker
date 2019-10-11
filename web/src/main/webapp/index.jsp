@@ -2,12 +2,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Super Simple this safdsfasf Webpage</title>
+    <title>Time Tracker App</title>
 </head>
 <body>
-  <h1>Super Simple czxzxczx Web Page</h1>
+  <h1>This is my super duper time tracker app</h1>
   <p>
-   Crazy
+   Woooo......
   </p>
 </body>
 </html>
